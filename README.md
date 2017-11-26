@@ -1,2 +1,2 @@
 # Practical-Programming
-YouTube Videos Teaching Students Practical Programming Knowledge
+YouTube Videos Teaching Student Practical Programming Knowledge
